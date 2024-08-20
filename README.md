@@ -14,7 +14,7 @@ This file includes:
 ## Getting Started
 
 - **Review the ERD:** Familiarize yourself with the database structure by examining the ERD.
-- **Implement the Schema:** Use the provided schema to create the database in your preferred relational database management system (e.g., MySQL, PostgreSQL).
+- **Implement the Schema:** Use the provided schema to create the database in MySQL.
 - **Populate with Data:** Insert sample data or integrate with existing DMRC data sources to populate the database.
 - **Query and Analyze:** Utilize SQL queries to retrieve and analyze data for various DMRC operational insights.
 
